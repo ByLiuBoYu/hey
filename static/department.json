@@ -1,0 +1,11 @@
+{
+	"department": [
+		{"text": "内科", "value": "Internal"},
+   	{"text": "外科", "value": "Surgery"},
+    {"text": "五官科", "value": "Five_Sense_Organs"},
+    {"text": "骨科", "value": "Orthopedics"},
+    {"text": "精神科（包括心理咨询）", "value": "Psychiatry"},
+    {"text": "妇产科", "value": "Obstetrics_Gynecology"},
+    {"text": "男科", "value": "Andrology"}
+  ]
+}
